@@ -1,2 +1,2 @@
 # recsys
-Recommendation system (classic ml + dl)
+Recommender systems
